@@ -1,0 +1,18 @@
+{
+  "description": "Proper Dev Tech Name project",
+  "domain": "owns.it.com",
+  "subdomain": "properdevtechname",
+  "owner": {
+    "repo": "https://github.com/Dopamine-developer/register",
+    "email": "adityakalilinux829@gmail.com"
+  },
+  "record": {
+    "A": [
+      "106.219.160.89"
+    ],
+    "AAAA": [
+      "2401:4900:8847:e2a1:218a:612d:2190:70ba"
+    ]
+  },
+  "proxied": false
+}
